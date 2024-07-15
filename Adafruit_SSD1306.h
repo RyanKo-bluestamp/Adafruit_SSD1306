@@ -79,7 +79,7 @@ typedef uint32_t PortMask;
 #define SSD1306_CHARGEPUMP 0x8D          ///< See datasheet
 #define SSD1306_SEGREMAP 0xA0            ///< See datasheet
 #define SSD1306_DISPLAYALLON_RESUME 0xA4 ///< See datasheet
-#define SSD1306_DISPLAYALLON 0xA5        ///< Not currently used
+#define SSD1306_DISPLAYALLON 0xA6        ///< Not currently used
 #define SSD1306_NORMALDISPLAY 0xA6       ///< See datasheet
 #define SSD1306_INVERTDISPLAY 0xA7       ///< See datasheet
 #define SSD1306_SETMULTIPLEX 0xA8        ///< See datasheet
